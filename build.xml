@@ -208,28 +208,12 @@
   	  command="${defaultpear.exec} install pear"
   	  passthru="true"
   	/>
-  	<exec
-      command="${pear.exec} install --alldeps pear.phpunit.de/PHPUnit"
-      passthru="true"
-    />
-    <exec
-      command="${pear.exec} install --alldeps phpunit/phploc"
-      passthru="true"
-    />
-    <exec
-      command="${pear.exec} install --alldeps pear.docblox-project.org/DocBlox"
-      passthru="true"
-    />
     <exec
       command="${pear.exec} install --alldeps pear.pdepend.org/PHP_Depend-beta"
       passthru="true"
     />
     <exec
       command="${pear.exec} install --alldeps pear.phpmd.org/PHP_PMD"
-      passthru="true"
-    />
-    <exec
-      command="${pear.exec} install --alldeps pear.phpunit.de/phpcpd"
       passthru="true"
     />
     <exec
@@ -242,6 +226,10 @@
     />
     <exec
       command="cp /usr/local/bin/phpunit ${dir.vendor}/bin/."
+      passthru="true"
+    />
+    <exec
+      command="cp /usr/local/bin/phploc ${dir.vendor}/bin/."
       passthru="true"
     />
     <exec
