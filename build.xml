@@ -240,6 +240,22 @@
       command="cp /usr/local/bin/phpcpd ${dir.vendor}/bin/."
       passthru="true"
     />
+    <exec
+      command="cp -R /var/lib/jenkins/base/vendor/bin/src ${dir.vendor}/bin/."
+      passthru="true"
+    />
+    <exec
+      command="cp -R /var/lib/jenkins/base/vendor/bin/tests ${dir.vendor}/bin/."
+      passthru="true"
+    />
+    <exec
+      command="cp -R /var/lib/jenkins/base/vendor/bin/data ${dir.vendor}/bin/."
+      passthru="true"
+    />
+    <exec
+      command="cp -R /var/lib/jenkins/base/vendor/bin/docs ${dir.vendor}/bin/."
+      passthru="true"
+    />
   </target>
 
   <target name="clean-dependencies">
