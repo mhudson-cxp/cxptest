@@ -8,6 +8,7 @@
  * @license  http://mhudson-cxp.github.com/ Apache License 2.0
  * @version  GIT:  $Id$
  * @link     http://mhudson-cxp.github.com/
+ * PHP       version  5
  */
 namespace App;
 
