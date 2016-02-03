@@ -1,3 +1,3 @@
 <?php
-require_once __DIR__ . '/../src/mg/App/App.php';
+require_once __DIR__ . '/../src/App.php';
 
