@@ -6,7 +6,7 @@
  * @package  App
  * @author   Mike Hudson <mhudson@connexionpoint.com>
  * @license  http://mhudson-cxp.github.com/ Apache License 2.0
- * @version  $Id$
+ * @version  Release:  1.0
  * @link     http://mhudson-cxp.github.com/
  */
 namespace App;
