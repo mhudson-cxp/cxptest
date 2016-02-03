@@ -6,8 +6,8 @@
  * @package  App
  * @author   Mike Hudson <mhudson@connexionpoint.com>
  * @license  http://mhudson-cxp.github.com/ Apache License 2.0
- * @link     http://mhudson-cxp.github.com/
  * @version  GIT: $id
+ * @link     http://mhudson-cxp.github.com/
  */
 namespace App;
 
@@ -18,8 +18,8 @@ namespace App;
  * @package  App
  * @author   Mike Hudson <mhudson@connexionpoint.com>
  * @license  http://mhudson-cxp.github.com/ Apache License 2.0
- * @link     http://mhudson-cxp.github.com/
  * @version  GIT: $id
+ * @link     http://mhudson-cxp.github.com/
  */
 class App
 {
