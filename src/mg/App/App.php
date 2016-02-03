@@ -23,7 +23,7 @@ class App
 {
     /**
      * This will run the application.
-     *
+     * Testing
      * @return integer
      */
     public function run()
