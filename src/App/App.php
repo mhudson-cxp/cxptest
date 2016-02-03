@@ -2,7 +2,7 @@
 /**
  * My Application sample
  *
- * @category cxptest_CI
+ * @category Cxptest_CI
  * @package  App
  * @author   Mike Hudson <mhudson@connexionpoint.com>
  * @license  http://mhudson-cxp.github.com/ Apache License 2.0
