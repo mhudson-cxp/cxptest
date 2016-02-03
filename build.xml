@@ -240,6 +240,18 @@
       command="${pear.exec} install --alldeps pear.phing.info/phing"
       passthru="true"
     />
+    <exec
+      command="cp /usr/local/bin/phpunit ${dir.vendor}/bin/."
+      passthru="true"
+    />
+    <exec
+      command="cp /usr/local/bin/docblox ${dir.vendor}/bin/."
+      passthru="true"
+    />
+    <exec
+      command="cp /usr/local/bin/phpcpd ${dir.vendor}/bin/."
+      passthru="true"
+    />
   </target>
 
   <target name="clean-dependencies">
