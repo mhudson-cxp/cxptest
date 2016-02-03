@@ -237,6 +237,10 @@
       passthru="true"
     />
     <exec
+      command="cp -R /usr/share/php/PhpDocumentor ${dir.vendor}/bin/."
+      passthru="true"
+    />
+    <exec
       command="cp /usr/local/bin/phpcpd ${dir.vendor}/bin/."
       passthru="true"
     />
