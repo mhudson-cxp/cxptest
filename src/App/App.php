@@ -4,10 +4,10 @@
  *
  * @category Cxptest_CI
  * @package  App
- * @version  GIT:
  * @author   Mike Hudson <mhudson@connexionpoint.com>
  * @license  http://mhudson-cxp.github.com/ Apache License 2.0
  * @link     http://mhudson-cxp.github.com/
+ * @version  GIT: $id
  */
 namespace App;
 
@@ -16,10 +16,10 @@ namespace App;
  *
  * @category SampleCiWithPhp
  * @package  App
- * @version  GIT:
  * @author   Mike Hudson <mhudson@connexionpoint.com>
  * @license  http://mhudson-cxp.github.com/ Apache License 2.0
  * @link     http://mhudson-cxp.github.com/
+ * @version  GIT: $id
  */
 class App
 {
