@@ -1,4 +1,4 @@
-<project name="App" default="all" basedir=".">
+<project name="cxptest" default="all" basedir=".">
   <property file="./php.properties"/>
   <property file="./build.properties"/>
   <target name="prepare" depends="clean">
