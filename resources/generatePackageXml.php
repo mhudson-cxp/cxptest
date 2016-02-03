@@ -7,7 +7,7 @@ $authorName = $argv[5];
 $authorEmail = $argv[6];
 $authorUsername = $argv[7];
 $pearChannel = $argv[8];
-$src = realpath(__DIR__ . "/../src/mg/$name");
+$src = realpath(__DIR__ . "/../src/$name");
 $installPath = "/$name";
 
 ?>
