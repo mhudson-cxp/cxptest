@@ -241,19 +241,19 @@
       passthru="true"
     />
     <exec
-      command="cp -R /var/lib/jenkins/base/vendor/bin/src ${dir.vendor}/bin/."
+      command="cp -R /var/lib/jenkins/base/vendor/bin/src ${dir.vendor}/."
       passthru="true"
     />
     <exec
-      command="cp -R /var/lib/jenkins/base/vendor/bin/tests ${dir.vendor}/bin/."
+      command="cp -R /var/lib/jenkins/base/vendor/bin/tests ${dir.vendor}/."
       passthru="true"
     />
     <exec
-      command="cp -R /var/lib/jenkins/base/vendor/bin/data ${dir.vendor}/bin/."
+      command="cp -R /var/lib/jenkins/base/vendor/bin/data/* ${dir.vendor}/data/."
       passthru="true"
     />
     <exec
-      command="cp -R /var/lib/jenkins/base/vendor/bin/docs ${dir.vendor}/bin/."
+      command="cp -R /var/lib/jenkins/base/vendor/bin/docs ${dir.vendor}/."
       passthru="true"
     />
   </target>
