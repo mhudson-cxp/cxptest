@@ -35,3 +35,12 @@ class App
         return 42;
     }
 }
+?>
+<HTML>
+    <HEAD>
+        <TITLE>cxptest</TITLE>
+    </HEAD>
+    <BODY>
+        cxptest PHP Application
+    </BODY>
+</HTML>
