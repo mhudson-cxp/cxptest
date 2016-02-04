@@ -41,6 +41,7 @@ class App
         <TITLE>cxptest</TITLE>
     </HEAD>
     <BODY>
-        cxptest PHP Application
+        <FONT COLOR="red">cxptest</FONT> PHP Application
+        <BR><BR><BR>
     </BODY>
 </HTML>
