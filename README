@@ -4,9 +4,9 @@ The structure of your project should be as follows:
 
 Project
 ==================================================================
-build.properties    (Build properties)
+build.properties    (Build properties for Jenkins)
 build.xml           (Build script for Jenkins)
-php.properties      (Jenkins PHP Enviroment Settings)
+php.properties      (Jenkins PHP Environment Settings)
 src                 (Directory containing your project)
 test                (Directory containing your unit tests, etc..)
 resources           (Resource folder for Jenkins)
