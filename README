@@ -1,2 +1,15 @@
-Example of Jenkins PHP CI.
+Example of Jenkins PHP CI for Connexion Point Development
+
+The structure of your project should be as follows:
+
+Project
+==================================================================
+build.properties    (Build properties)
+build.xml           (Build script for Jenkins)
+php.properties      (Jenkins PHP Enviroment Settings)
+src                 (Directory containing your project)
+test                (Directory containing your unit tests, etc..)
+resources           (Resource folder for Jenkins)
+
+
 
