@@ -10,6 +10,18 @@ php.properties      (Jenkins PHP Enviroment Settings)
 src                 (Directory containing your project)
 test                (Directory containing your unit tests, etc..)
 resources           (Resource folder for Jenkins)
+README              (This file)
+
+
+
+Connection Point PEAR Channel
+==================================================================
+jenkins-dev.connexionpoint.com
+
+
+Recommended IDE's
+==================================================================
+Netbeans: https://netbeans.org/downloads/
 
 
 
